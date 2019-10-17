@@ -20,16 +20,42 @@ Para lidar com essas situações, acreditamos que toda equipe deve, sim, ter esp
 O objetivo desta metodologia é incentivar o compartilhamento de conhecimento dentro das equipes de trabalho, visando o desenvolvimento não somente de cada colaborador, mas também da equipe como um todo, por meio de um sistema de perguntas e respostas.
 
 ## Como começar
-A equipe deve adotar algum sistema para fazer o controle das dúvidas sobre quaisquer temas que possam interessar ao desenvolvimento dos seus colaboradores. No nosso caso, estamos utilizando os projetos do próprio **GitHub**. As dúvidas postadas podem ser controladas por 3 colunas básicas: **Asked**, **Planned** e **Done**.
+A equipe deve adotar algum sistema para fazer o controle dos elementos desta metodologia, como a ferramenta de gestão de projetos do próprio **GitHub**, ou o outras ferramentas de Kanban semelhantes (Trello, RunRunIt, etc). O objetivo principal deste controle é o de gerenciar os elementos básicos da metodologia **101** em três colunas básicas: **Asked**, **Planned** e **Done**.
 
 ### Asked
-Nesta coluna devem ficar as novas dúvidas e todas aquelas que ainda não têm uma resposta planejada. Enquanto elas estiverem nesta coluna, elas precisam ser designadas a algum dos colaboradores da equipe, que ficará responsável por respondê-la. A equipe pode fazer votações para definir quais serão as próximas dúvidas que deverão ser planejadas.
+Os elementos desta coluna representam as novas dúvidas e todas aquelas que ainda não têm uma resposta planejada ou agendada. É importante que todas as novas dúvidas sejam registradas inicialmente nesta coluna para evitar maior complexidade na sua gestão.
+
+## Criando novas dúvidas
+No **101**, qualquer dúvida é válida, desde que possa ser respondida por alguém que fizer parte da sua equipe. Por exemplo: se a minha equipe trabalha com a venda de laranjas, no **101** não cabem dúvidas relacionadas à fabricação de guarda-chuvas, exceto se o tema realmente fizer sentido para o desenvolvimento da equipe e exista uma pessoa dentro dela que possa se responsabilizar pela sua resposta.
+
+É importante ter em mente que, no geral, as respostas para as dúvidas criadas serão sucintas. Sendo assim, quanto mais complexa for a dúvida criada, mais superficial será a resposta e, por sua vez, mais dúvidas poderão ser criadas para, assim, criar-se profundidade em cada tema.
+
+## Planejando respostas de dúvidas
+No **101**, o planejamento de respostas para as dúvidas criadas é simples e direta, sendo necessário apenas designar uma pessoa de responsável de dentro da equipe a cada dúvida criada. Esta ação pode ocorrer em qualquer momento, desde que o responsável possa ter tempo hábil para produção da resposta.
+
+Dúvidas que já tiverem sido **planejadas** estão prontas para serem **agendadas** e, durante o evento de agendamento das próximas sessões, podem ser movidas da coluna **Asked** para a coluna **Scheduled**.
 
 ### Scheduled
-Dúvidas que já têm um responsável podem ser planejadas para serem respondidas e movidas para esta coluna. A sugestão é que as respostas sejam em forma de pequenas palestras de **duração de 30 a 45 minutos**, devendo ser agendadas com 7 a 15 dias de antecedência para que o responsável possa planejar a sua apresentação devidamente.
+Todos os elementos desta coluna representam as dúvidas que estão prontas para serem respondidas, e já devem ter um responsável designado e uma data agendada para apresentação da resposta.
+
+## Respondendo às dúvidas
+O formato de resposta sugerido pelo **101** é o de realização de pequenas palestras para todos os interessados no tema. Estas apresentações devem conter informações relevantes para o esclarecimento da dúvida em questão e, ao mesmo tempo, sendo sucintas.
+
+A sugestão de duração das respostas é de cerca de **30 a 45 minutos**, assim evitando o desgaste dos outros participantes e facilitando a absorção das informações que estão sendo apresentadas.
+
+Além disso, o tempo mínimo sugerido para produção das respostas é de **7 dias**, de maneira que o responsável possa dividir o seu tempo tranquilamente entre seus afazeres do dia-a-dia e produção da sua apresentação.
+
+Sugere-se que todo o material relativo à resposta da dúvida seja anexado à ela, criando assim uma base de informações - uma biblioteca de conhecimentos da sua equipe.
+
+## Agendando novas dúvidas
+O evento de agendamento da resposta de novas dúvidas é de extrema importância, pois ele que mantém, teoricamente, o ciclo de sessões do **101** em funcionamento perpétuo.
+
+Dessa maneira, o melhor momento para realização deste evento é **ao final do evento de resposta de uma dúvida**. Neste momento, a equipe estará reunida e, juntos, todos poderão definir qual será a próxima dúvida a ser respondida - seja por votação, sorteio, etc.
+
+Ainda durante este evento, a dúvida que foi respondida é dada como finalizada, devendo ser movida para a coluna **Done**.
 
 ### Done
-Nesta coluna vão as dúvidas que já foram devidamente respondidas.
+Esta coluna serve como controle das dúvidas que já foram respondidas. Apesar disso, toda dúvida já respondida pode ser reaberta, se assim for necessário para realimentar os conhecimentos da equipe.
 
 ## Contato
 Em caso de dúvidas ou sugestões para melhorias, favor entrar em contato:
